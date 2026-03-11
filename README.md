@@ -19,7 +19,9 @@ que me permitan desarrollar mis capacidades dentro del ámbito digital.
  🚀 Proyectos destacados
 
 🚗**Sistema Web de Inventario para Corralones Vehiculares**
+
 🧍🏻**Cortrometajes sobre el dia internacional de la mujer**
+
 🧸**Catalogo de juguetes, con modelados 3D**
 
 
@@ -28,8 +30,7 @@ que me permitan desarrollar mis capacidades dentro del ámbito digital.
 💻 Lenguajes
 
 - HTML  
-- CSS  
-- JavaScript  
+- CSS 
 - Python  
 
 ⚙️ Frameworks
@@ -47,6 +48,7 @@ que me permitan desarrollar mis capacidades dentro del ámbito digital.
 - GitHub  
 - Unity  
 - Blender
+- Krita
 
  **Cursos**
  **"SanaMente LibreMente: jóvenes por la paz y contra las adicciones"**
