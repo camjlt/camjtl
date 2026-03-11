@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Camila Luna Tepox</h1>
-<img src="banner_h(1).png" width="100%">
+
 <p align="center">
   <img src="yo.jpg" width="150" style="border-radius:50%">
 </p>
