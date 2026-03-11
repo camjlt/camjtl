@@ -10,6 +10,9 @@
 Llevo un  enfoque en la gestión de proyectos tecnológicos
 y el desarrollo de soluciones digitales. Cuento con experiencia en proyectos académicos como diseño de páginas web, 
 fortaleciendo mis habilidades técnicas.
+He participado en el desarrollo de proyectos académicos enfocados en tecnología digital, 
+como la creación de páginas web y el diseño de interfaces. Durante estos proyectos he aplicado conocimientos de HTML, 
+CSS y Bootstrap, desarrollando sitios web funcionales y visualmente organizados.
 
 Destaco por mi creatividad, por mi capacidad para trabajar en equipo, por ser organizada, me gusta enfrentar retos 
 que me permitan desarrollar mis capacidades dentro del ámbito digital.
@@ -39,7 +42,8 @@ que me permitan desarrollar mis capacidades dentro del ámbito digital.
 
 🗄️ Base de datos
 
-- PostgreSQL  
+- PostgreSQL
+- MySQL
 
 🛠️ Herramientas
 
@@ -71,7 +75,7 @@ https://drive.google.com/file/d/1xTqOMm-pFSGbJZ5QkoKfXZqKI7kOoX2y/view?usp=shari
 https://drive.google.com/file/d/1ODuuv4tQlSgtGlpT-kUHUGgoY8bIckmt/view?usp=sharing
 
 **Idiomas**
-B1
+A2
 
  📫 Contacto
 
@@ -80,5 +84,4 @@ B1
 📸 Instagram: https://www.instagram.com/ctl._.cam/
 
 ⭐ Gracias por visitar mi perfil
-
-LINK PDF CV
+https://drive.google.com/file/d/1_9oe15y_I_62i0sycNl4wFqlRYIJTzJV/view?usp=sharing
