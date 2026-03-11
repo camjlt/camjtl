@@ -7,7 +7,7 @@
 
 👩‍💻 Sobre mí
 
-Soy estudiante de la carrera en Entornos Virtuales y Negocios Digitales con enfoque en la gestión de proyectos tecnológicos
+Llevo un  enfoque en la gestión de proyectos tecnológicos
 y el desarrollo de soluciones digitales. Cuento con experiencia en proyectos académicos como diseño de páginas web, 
 fortaleciendo mis habilidades técnicas.
 
