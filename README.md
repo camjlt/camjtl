@@ -56,13 +56,13 @@ que me permitan desarrollar mis capacidades dentro del ámbito digital.
 
   **Reconocimientos**
   
-  **taller "introducción a la criptografia del 1er. Congreso de Tecnologia y Ciberseguridad**
+  **taller: "introducción a la criptografia del 1er. Congreso de Tecnologia y Ciberseguridad**
   https://drive.google.com/file/d/1buHhRXtLBEKRqqcXP36sGbQfqQLPgyqq/view?usp=sharing
   
   **Segundo Congreso de Tecnología y Ciberseguridad**
 https://drive.google.com/file/d/1VhNgX3-FkQy7qELEC7t79117U4rtoDO3/view?usp=sharing
 
-**taller “Diseño publicitario digital”**
+**taller: “Diseño publicitario digital”**
 https://drive.google.com/file/d/1xTqOMm-pFSGbJZ5QkoKfXZqKI7kOoX2y/view?usp=sharing
 
 **Cortometraje dia internacional de la mujer**
@@ -74,8 +74,8 @@ B1
  📫 Contacto
 
 ✉️ Email: camilluna123@gmail.com 
-📘 Facebook: Luna Cam
-📸 Instagram: ctl._.cam
+📘 Facebook:https://www.facebook.com/luna.cam.348792
+📸 Instagram: https://www.instagram.com/ctl._.cam/
 
 ⭐ Gracias por visitar mi perfil
 
