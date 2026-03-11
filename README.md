@@ -1,8 +1,8 @@
-<img src="banner h.png" width="100%">
 <h1 align="center">Hola 👋, soy Camila Luna Tepox</h1>
 <h3 align="center">Estudiante de Entornos Virtuales y Negocios Digitales</h3>
+<img src="banner h.png" width="100%">
 <p align="center">
-  <img src="yo.png" width="150" style="border-radius:50%">
+  <img src="yo.jpg" width="150" style="border-radius:50%">
 </p>
 
 ---
