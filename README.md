@@ -84,4 +84,6 @@ A2
 📸 Instagram: https://www.instagram.com/ctl._.cam/
 
 ⭐ Gracias por visitar mi perfil
-https://drive.google.com/file/d/1_9oe15y_I_62i0sycNl4wFqlRYIJTzJV/view?usp=sharing
+
+Link PDF:
+https://drive.google.com/file/d/1kOmI7JFFca_gP8pemULg7w7XVVAaA3yS/view?usp=sharing
