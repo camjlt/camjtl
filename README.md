@@ -86,12 +86,16 @@ A2
 
 Videos de proyectos destacadados: 
 **ANIMACIÓN DE CORTOMETRAJE SOBRE EL HOSTIGAMIENTO ESCOLAR**
+
 https://drive.google.com/file/d/1YUk_kOgEH8UctMJoDx42Ez3Xcrw4NocT/view?usp=sharing
+
+
 **CORTOMETRAJE VIOLENCIA HACIA LAS MUEJERES INDÍGENAS**
+
 https://drive.google.com/file/d/167mn29HszGwfGMQso_xKJ-GgnjsyvQrG/view?usp=sharing
 
 
 ⭐ Gracias por visitar mi perfil
 
-Link PDF:
+PDF CV:
 https://drive.google.com/file/d/1kOmI7JFFca_gP8pemULg7w7XVVAaA3yS/view?usp=sharing
