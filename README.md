@@ -83,6 +83,14 @@ A2
 📘 Facebook:https://www.facebook.com/luna.cam.348792
 📸 Instagram: https://www.instagram.com/ctl._.cam/
 
+
+Videos de proyectos destacadados: 
+**ANIMACIÓN DE CORTOMETRAJE SOBRE EL HOSTIGAMIENTO ESCOLAR**
+https://drive.google.com/file/d/1YUk_kOgEH8UctMJoDx42Ez3Xcrw4NocT/view?usp=sharing
+**CORTOMETRAJE VIOLENCIA HACIA LAS MUEJERES INDÍGENAS**
+https://drive.google.com/file/d/167mn29HszGwfGMQso_xKJ-GgnjsyvQrG/view?usp=sharing
+
+
 ⭐ Gracias por visitar mi perfil
 
 Link PDF:
